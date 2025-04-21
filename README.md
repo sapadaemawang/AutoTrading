@@ -1,1 +1,1 @@
-# AutoTrading
+# AutoTrading from Jocoding
